@@ -32,9 +32,60 @@
            integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" 
            crossorigin="anonymous"
         ></script>
-        <link rel="stylesheet" href="" />
+        <link rel="stylesheet" href="./assets/css/style.css"/>
     </head>
     <body>
-        <h1>This is my Contact Page.</h1>
+      <style>
+         body {
+           background-image: url('https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png');
+         }
+         </style><nav class="navbar navbar-expand-lg navbar-light bg-light">
+         <a class="navbar-brand" href="./index.html">Philip Marzullo</a>
+         <button 
+           class="navbar-toggler" 
+           type="button" 
+           data-toggle="collapse" 
+           data-target="#navbarSupportedContent" 
+           aria-controls="navbarSupportedContent" 
+           aria-expanded="false" 
+           aria-label="Toggle navigation">
+           
+           <span class="navbar-toggler-icon"></span>
+         </button>
+       
+         <div class="collapse navbar-collapse" id="navbarSupportedContent">
+           <ul class="navbar-nav ml-auto">
+               <a class="nav-link" href="./portfolio.html">Portfolio</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="./contact.html">Contact</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="./index.html">About</a>
+             </li>
+           </ul>
+         </div>
+       </nav>
+       <h1>This is my Contact Page.</h1>
     </body>
-</html>   
+    <hr class="my-4">
+    <form>
+      <div class="form-group">
+        <label for="exampleInputPassword1">Name</label>
+        <input type="password" class="form-control" id="exampleInputName1" placeholder="Name">
+      </div>
+      <div class="form-group">
+        <label for="exampleInputEmail1">Email address</label>
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" 
+        placeholder="Email">
+      </div>
+      
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Message</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Message">
+
+        </textarea>
+      </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      </html>   
