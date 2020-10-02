@@ -2,6 +2,11 @@
     background: #00ced1;
     color: white;
 }
+
+body {
+    background-image: url('https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png');
+  }
+
 .btn {
     background: #00ced1
 }
