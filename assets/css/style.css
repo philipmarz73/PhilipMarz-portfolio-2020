@@ -15,7 +15,7 @@
     margin-left: ($spacer * .25) !important;
   }
   
-.card {
+.container {
 
 }.px-3{
     padding-left: ($spacer * .5) !important;
