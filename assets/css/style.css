@@ -3,14 +3,32 @@
     color: white;
 }
 
-body {
+::-webkit-textfield-decoration-container {
     background-image: url('https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png');
   }
+  
+  .mt-0 {
+    margin-top: 0 !important;
+  }
+  
+  .ml-1 {
+    margin-left: ($spacer * .25) !important;
+  }
+  
+.card {
 
+}.px-3{
+    padding-left: ($spacer * .5) !important;
+    padding-right: ($spacer * .5) !important;
+  }
+  
+  .p-3 {
+    padding: $spacer !important;
+  }
 .btn {
     background: #00ced1
 }
 
 h2 {
-    text-decoration-color: #00ced1
+    color: #00ced1
 }
