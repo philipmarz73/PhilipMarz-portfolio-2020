@@ -4,7 +4,7 @@
 }
 
 ::-webkit-textfield-decoration-container {
-    background-image: url('https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png');
+    background-image: url = "https://www.toptal.com/designers/subtlepatterns/patterns/ignasi_pattern_s.png";
   }
   
   .mt-0 {
@@ -13,18 +13,9 @@
   
   .ml-1 {
     margin-left: ($spacer * .25) !important;
-  }
   
-.container {
+  
 
-}.px-3{
-    padding-left: ($spacer * .5) !important;
-    padding-right: ($spacer * .5) !important;
-  }
-  
-  .p-3 {
-    padding: $spacer !important;
-  }
 .btn {
     background: #00ced1
 }
