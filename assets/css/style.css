@@ -2,7 +2,12 @@
     background: #00ced1;
     color: white;
 }
-
+/* .container {
+  padding: 32px;
+ } */
+ /* .card + .card { */
+  /* margin: 0 0 0 8px;
+ } */
 .container-fluid {
   padding: 32px;
  }
@@ -40,4 +45,16 @@ h2 {
 
 .card {
   margin: 24px;
+ }
+ .card-body {
+  padding: 16px;
+   } 
+   /* margin: 24px; */
+ 
+ .img {
+  size: 350px * 350px{
+   
+   margin: 24px;
+  /* Justify-content: space-evenly;
+  margin: 24px; */
  }
