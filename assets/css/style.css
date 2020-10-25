@@ -20,6 +20,16 @@
     background: #00ced1
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(92, 87, 87);
+  color: rgb(140, 157, 168);
+  text-align: center;
+}
+
 h2 {
     color: #00ced1
 }
