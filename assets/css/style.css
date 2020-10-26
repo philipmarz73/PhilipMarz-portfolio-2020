@@ -26,7 +26,9 @@
   
 
 .btn {
-    background: #00ced1
+  border: none;
+  background: #00ced1
+    
 }
 
 .footer {
@@ -58,3 +60,6 @@ h2 {
   /* Justify-content: space-evenly;
   margin: 24px; */
  }
+ .footer {
+  border-top: 6px solid #00ced1;
+  padding-top: 8px};
