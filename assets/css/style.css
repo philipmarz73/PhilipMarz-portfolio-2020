@@ -44,17 +44,17 @@ h2 {
 }
 
 .card {
-  margin: 24px;
+  margin: auto;
  }
  .card-body {
   padding: 16px;
    } 
    /* margin: 24px; */
  
- .img {
-  size: 350px * 350px{
-   
-   margin: 24px;
+ .row {
+  size: 350px * 350px;
+  padding-left: 30px;
+  margin: 20px;
   /* Justify-content: space-evenly;
   margin: 24px; */
  }
