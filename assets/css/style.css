@@ -51,13 +51,13 @@ h2 {
  .card-body {
   padding: 16px;
    } 
- .card-img {
-  margin: auto;
- }
+ /* .card-img { */
+  
+ 
  .row {
   size: 350px * 350px;
-  padding-left: 30px;
-  margin: 20px;
+  padding-left: 10px; 
+  margin: 10px; 
   /* Justify-content: space-evenly;
   margin: 24px; */
  }
