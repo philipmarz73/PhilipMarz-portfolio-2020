@@ -59,7 +59,10 @@ h2 {
   margin: 20px;
   /* Justify-content: space-evenly;
   margin: 24px; */
- }
+  }
+  /* .p {
+    text-align: justify;
+  } */
  .footer {
   border-top: 6px solid #00ced1;
   padding-top: 8px};
