@@ -46,13 +46,14 @@ h2 {
 }
 
 .card {
-  margin: auto;
+  margin: 60px;
  }
  .card-body {
   padding: 16px;
    } 
-   /* margin: 24px; */
- 
+ .card-img {
+  margin: auto;
+ }
  .row {
   size: 350px * 350px;
   padding-left: 30px;
