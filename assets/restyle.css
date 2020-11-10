@@ -4,13 +4,13 @@
 }
 /* .container {
   padding: 32px;
- }  */
+ } */
  /* .card + .card { */
   /* margin: 0 0 0 8px;
  } */
 .container-fluid {
   padding: 32px;
- } 
+ }
 
 ::-webkit-textfield-decoration-container {
     background-image: url = "https://www.toptal.com/designers/subtlepatterns/patterns/ignasi_pattern_s.png";
