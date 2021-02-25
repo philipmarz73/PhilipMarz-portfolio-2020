@@ -9,7 +9,7 @@
   /* margin: 0 0 0 8px;
  } */
 .container-fluid {
-  padding: 32px;
+  padding: 16px;
  }
 
 ::-webkit-textfield-decoration-container {
@@ -21,7 +21,7 @@
   }
   
   .ml-1 {
-    margin-left: ($spacer * .25) !important;
+    margin-left: ($spacer * .20) !important;
   }
   
 
@@ -55,8 +55,8 @@
  
  .row {
   size: 350px * 350px;
-  padding-left: 30px;
-  margin: 20px;
+  padding-left: 12px;
+  margin: 10px;
   /* Justify-content: space-evenly;
   margin: 24px; */
   }
